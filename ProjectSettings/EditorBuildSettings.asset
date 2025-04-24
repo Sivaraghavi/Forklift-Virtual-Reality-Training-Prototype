@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ForkliftTraining.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 98aafa6d634266341b9da2464b1e22ee,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d7b7690e81358c94ba55896f5babe94e,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 830293a87eb06ef4aa0c7b0fd01ccbc4,
+      type: 2}
